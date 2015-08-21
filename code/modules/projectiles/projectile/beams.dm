@@ -5,6 +5,7 @@
 	damage = 20
 	damage_type = BURN
 	hitsound = 'sound/weapons/sear.ogg'
+	hitsound_wall = 'sound/effects/searwall.ogg'
 	flag = "laser"
 	eyeblur = 2
 
